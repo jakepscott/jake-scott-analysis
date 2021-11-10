@@ -1,0 +1,103 @@
+state,data,unemp_change
+Alabama,old_data,4
+Alabama,new_data,1.5999999999999996
+Alaska,old_data,2
+Alaska,new_data,1.5999999999999996
+Arizona,old_data,2.1000000000000005
+Arizona,new_data,1.9000000000000004
+Arkansas,old_data,2.2
+Arkansas,new_data,0.8999999999999995
+California,old_data,6.3999999999999995
+California,new_data,4.8
+Colorado,old_data,4.3
+Colorado,new_data,3.8999999999999995
+Connecticut,old_data,4.6000000000000005
+Connecticut,new_data,4.3999999999999995
+Delaware,old_data,3.3
+Delaware,new_data,1.7999999999999998
+District of Columbia,old_data,3.799999999999999
+District of Columbia,new_data,3.5
+Florida,old_data,3.9000000000000004
+Florida,new_data,1.5
+Georgia,old_data,3.2
+Georgia,new_data,1.7999999999999998
+Hawaii,old_data,12.8
+Hawaii,new_data,8.3
+Idaho,old_data,3.4
+Idaho,new_data,0.8999999999999999
+Illinois,old_data,6.9
+Illinois,new_data,4.2
+Indiana,old_data,3.0999999999999996
+Indiana,new_data,1
+Iowa,old_data,1.9000000000000004
+Iowa,new_data,0.8000000000000003
+Kansas,old_data,2.9999999999999996
+Kansas,new_data,0.2999999999999998
+Kentucky,old_data,1.4000000000000004
+Kentucky,new_data,1.2000000000000002
+Louisiana,old_data,2.9000000000000004
+Louisiana,new_data,2.5
+Maine,old_data,1.9000000000000004
+Maine,new_data,2.2
+Maryland,old_data,3.6
+Maryland,new_data,3.0000000000000004
+Massachusetts,old_data,6.1000000000000005
+Massachusetts,new_data,5
+Michigan,old_data,4.499999999999999
+Michigan,new_data,2
+Minnesota,old_data,2.5999999999999996
+Minnesota,new_data,1.2999999999999998
+Mississippi,old_data,1.6000000000000005
+Mississippi,new_data,0.8000000000000007
+Missouri,old_data,1.8000000000000003
+Missouri,new_data,0.6999999999999997
+Montana,old_data,1.5
+Montana,new_data,0.2999999999999998
+Nebraska,old_data,0.8999999999999999
+Nebraska,new_data,0.30000000000000027
+Nevada,old_data,9.3
+Nevada,new_data,4.8
+New Hampshire,old_data,2.9
+New Hampshire,new_data,1
+New Jersey,old_data,4.1
+New Jersey,new_data,4.1
+New Mexico,old_data,3.5
+New Mexico,new_data,3.5999999999999996
+New York,old_data,6.2
+New York,new_data,5.000000000000001
+North Carolina,old_data,3.8
+North Carolina,new_data,2.4000000000000004
+North Dakota,old_data,2.5
+North Dakota,new_data,2.3
+Ohio,old_data,2.9000000000000004
+Ohio,new_data,0.7999999999999998
+Oklahoma,old_data,2.6
+Oklahoma,new_data,1.3000000000000003
+Oregon,old_data,4.1
+Oregon,new_data,2.8000000000000003
+Pennsylvania,old_data,2.3
+Pennsylvania,new_data,2.5
+Rhode Island,old_data,7.1000000000000005
+Rhode Island,new_data,3.4000000000000004
+South Carolina,old_data,2.8000000000000003
+South Carolina,new_data,2.6999999999999997
+South Dakota,old_data,1.1
+South Dakota,new_data,0.20000000000000018
+Tennessee,old_data,4.2
+Tennessee,new_data,1.3999999999999995
+Texas,old_data,4.300000000000001
+Texas,new_data,3.1999999999999997
+Utah,old_data,1.8000000000000003
+Utah,new_data,0.7000000000000002
+Vermont,old_data,2.0999999999999996
+Vermont,new_data,0.7000000000000002
+Virginia,old_data,4.1
+Virginia,new_data,2.8
+Washington,old_data,4
+Washington,new_data,2
+West Virginia,old_data,2.9000000000000004
+West Virginia,new_data,1.5
+Wisconsin,old_data,1.9000000000000004
+Wisconsin,new_data,0.5
+Wyoming,old_data,1.2999999999999998
+Wyoming,new_data,0.6999999999999993
